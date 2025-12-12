@@ -1,4 +1,4 @@
-[Download](TagMan.jar)
+[Download](https://github.com/ferrannl/TagMan/edit/main/TagMan.jar)
 
 ![TagMan gameplay](logo.gif)
 
