@@ -1,4 +1,4 @@
-[Download](TagMan jar)
+[Download](TagMan.jar)
 
 ![TagMan gameplay](logo.gif)
 
