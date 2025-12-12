@@ -1,3 +1,5 @@
+[Download](TagMan jar)
+
 ![TagMan gameplay](logo.gif)
 
 # 🏃‍♂️ TagMan – PROG4 Assessment Game
